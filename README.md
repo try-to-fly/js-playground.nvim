@@ -2,6 +2,8 @@
 
 A Neovim plugin that allows you to run JavaScript code in a playground-like environment. This plugin will open a window on the right side, execute the current JavaScript file using Node.js, and display the output. It also supports automatic execution and result update upon saving the file.
 
+![录屏2024-06-13 11 04 54](https://github.com/try-to-fly/js-playground.nvim/assets/16008258/c7856310-4dac-46a2-8329-63c2e491bae3)
+
 ## Features
 
 - Opens a window on the right side to display JavaScript execution results.
